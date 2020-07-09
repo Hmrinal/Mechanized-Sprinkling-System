@@ -8,10 +8,10 @@ So we decided to make a system to monitor and automatically switch the upper tan
 
 Here we have designed a prototype for monitoring the water level in the upper tank of household and also switching between the main supply and backup supply for constant water availability. This project is beneficiary as it not only helps to harvest rainwater but at the same time keeps a track of the water level in the house. The water stored in tanks can be used to irrigate crops, for gardening, washing of vehicles and flushing toilets. It is an efficient and economical project for fiscal use of water resource.
 
-## Project Objective
+## Objective
 
 To create automatic water source switching and monitoring system for rural areas. 
 
-## Project Conclusion
+## Conclusion
 
 The earlier rainwater harvesting systems were feasible but they required much human effort and attention. Through this project we have aimed to simplify the human efforts by teaming up the traditional idea of water harvesting with the latest technology of Internet of Things. This innovative and modified idea keeps a track of the water that is stored during the rain showers in cisterns and also switches the supply during supply cut-off at adverse times.
