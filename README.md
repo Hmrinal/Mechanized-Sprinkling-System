@@ -4,13 +4,15 @@ Due to our interest in water conservation, we installed a rainwater harvesting s
 One problem that we face in long dry spells is the fact that cistern runs out of water. Thus we have to switch to a manual system to source upper tanks with well water. Every time this occurs, someone has to go to the attic, switch the water system and deactivate cistern water pump. When it rains again and there is enough water in cistern, the reverse manual process has to be taken, so it´s not practical.
 So we decided to make a system to monitor and automatically switch the upper tank source water between cistern and well water.
 
-## Outcome
-
-Here we have designed a prototype for monitoring the water level in the upper tank of household and also switching between the main supply and backup supply for constant water availability. This project is beneficiary as it not only helps to harvest rainwater but at the same time keeps a track of the water level in the house. The water stored in tanks can be used to irrigate crops, for gardening, washing of vehicles and flushing toilets. It is an efficient and economical project for fiscal use of water resource.
 
 ## Objective
 
 To create automatic water source switching and monitoring system for rural areas. 
+
+## Outcome
+
+Here we have designed a prototype for monitoring the water level in the upper tank of household and also switching between the main supply and backup supply for constant water availability. This project is beneficiary as it not only helps to harvest rainwater but at the same time keeps a track of the water level in the house. The water stored in tanks can be used to irrigate crops, for gardening, washing of vehicles and flushing toilets. It is an efficient and economical project for fiscal use of water resource.
+
 
 ## Conclusion
 
