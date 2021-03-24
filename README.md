@@ -17,4 +17,4 @@ Here we have designed a prototype for monitoring the water level in the upper ta
 
 ## Conclusion
 
-The earlier rainwater harvesting systems were feasible but they required much human effort and attention. Through this project we have aimed to simplify the human efforts by teaming up the traditional idea of water harvesting with the latest technology of Internet of Things. This innovative and modified idea keeps a track of the water that is stored during the rain showers in cisterns and also switches the supply during supply cut-off at adverse times.
+The earlier rainwater harvesting systems were feasible but they required much human effort and attention. Through this project we have aimed to simplify the human efforts by teaming up the traditional idea of water harvesting with the latest technology of `Internet of Things`. This innovative and modified idea keeps a track of the water that is stored during the rain showers in cisterns and also switches the supply during supply cut-off at adverse times.
