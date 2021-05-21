@@ -9,7 +9,7 @@ So we decided to make a system to monitor and automatically switch the upper tan
 
 ## Objective
 
-To create automatic water source switching and monitoring system for rural areas. 
+To create `automatic water source switching and monitoring system` for rural areas. 
 
 
 ## Outcome
