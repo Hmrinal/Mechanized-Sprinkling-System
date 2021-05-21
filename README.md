@@ -11,6 +11,7 @@ So we decided to make a system to monitor and automatically switch the upper tan
 
 To create automatic water source switching and monitoring system for rural areas. 
 
+
 ## Outcome
 
 Here we have designed a prototype for monitoring the water level in the upper tank of household and also switching between the main supply and backup supply for constant water availability. This project is beneficiary as it not only helps to harvest rainwater but at the same time keeps a track of the water level in the house. The water stored in tanks can be used to irrigate crops, for gardening, washing of vehicles and flushing toilets. It is an efficient and economical project for fiscal use of water resource.
