@@ -4,7 +4,7 @@ Due to our interest in water conservation, we installed a rainwater harvesting s
 
 One problem that we face in long dry spells is the fact that cistern runs out of water. Thus we have to switch to a manual system to source upper tanks with well water. Every time this occurs, someone has to go to the attic, switch the water system and deactivate cistern water pump. When it rains again and there is enough water in cistern, the reverse manual process has to be taken, so it´s not practical.
 
-So we decided to make a system to monitor and automatically switch the upper tank source water between cistern and well water.
+So we decided to make a system to monitor and `automatically switch the upper tank source water between cistern and well water`.
 
 
 ## Objective
